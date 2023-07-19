@@ -5,8 +5,8 @@ I will provide you with the call center data that includes individuals' national
 The desired output is as follows:
 TicketNo | NationalCode 
 --- | --- 
-TIK-35084 |	8828882468
-TIK-10068	| 0222265520
-TIK-32757	| 8683258483
-TIK-42154	| 0088885055
-TIK-43854	| 8863858338
+TIK-1 |	8828882468
+TIK-2	| 0222265520
+TIK-3	| 8683258483
+TIK-4	| 0088885055
+TIK-5	| 8863858338
